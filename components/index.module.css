@@ -1,0 +1,31 @@
+.title {
+  text-align: center;
+  font-size: 30px;
+  padding-bottom: 20px;
+}
+
+.searchBar {
+  padding-left: 5px;
+}
+
+.searchInput {
+  margin-left: 10px;
+  border: 0;
+  border-bottom: 1px solid black;
+}
+
+.searchInput:focus,
+.searchInput:active {
+  outline: none;
+}
+
+.searchLabel {
+  margin-right: 10px;
+}
+
+.sortBar {
+  display: flex;
+  justify-content: flex-end;
+  align-items: center;
+  padding-right: 5px;
+}

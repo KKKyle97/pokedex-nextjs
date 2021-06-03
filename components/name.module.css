@@ -1,0 +1,13 @@
+.container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.name {
+  font-size: 30px;
+}
+
+.dataContainer {
+  width: 500px;
+}
